@@ -20,10 +20,4 @@ AI Smart Surveillance System is an intelligent web-based platform that uses comp
 **AI/ML:** OpenCV, Computer Vision models  
 **Deployment:** Vercel / Render  
 
-## ⚙️ Run Locally
 
-```bash
-git clone <your-repo-url>
-cd AI-Surveillance-System
-npm install
-npm run dev
